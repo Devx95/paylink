@@ -2,19 +2,19 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Kuskus",
+    "description": "Solo servicios para tí",
+    "alt": "Photo of Kuskus",
+    "hero": "./images/Kuskus.jpg"
   },
 
   "Social": [
     { "label": "Email", "value": "bx-envelope", "link": "mailto:dlcastillo3015@gmail.com" },
-    { "label": "Link", "value": "bx-link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "value": "bx-link", "link": "https://kuskus-pay.netlify.app" },
+    { "label": "GitHub", "value": "bxl-github", "link": "" },
+    { "label": "Twitter", "value": "bxl-twitter", "link": "h" },
+    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "" },
+    { "label": "Instagram", "value": "bxl-instagram", "link": "" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
@@ -43,10 +43,10 @@
       "img": "./images/payments/busd.svg"
     },
     {
-      "id": "matic",
-      "label": "Matic",
-      "value": "",
-      "img": "./images/payments/matic.svg"
+      "id": "zelle",
+      "label": "Zelle",
+      "value": "Franck@gmail.com",
+      "img": "./images/payments/Zelle.svg"
     },
     {
       "id": "doge",
@@ -57,7 +57,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -81,7 +81,7 @@
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "",
       "img": "./images/payments/qvapay.svg"
     },
     {
