@@ -10,9 +10,9 @@
 
   "Social": [
     { "label": "Email", "value": "bx-envelope", "link": "qbolax95@gmail.com" },
-    { "label": "Link", "value": "bx-link", "link": "https://kuskus-pay.netlify.app" },
+    { "label": "Link", "value": "bx-link", "link": "https://qbola.company.site" },
     { "label": "GitHub", "value": "bxl-github", "link": "" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "h" },
+    { "label": "Twitter", "value": "bxl-twitter", "link": "" },
     { "label": "LinkedIn", "value": "bxl-linkedin", "link": "" },
     { "label": "Instagram", "value": "bxl-instagram", "link": "" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
@@ -40,7 +40,7 @@
       "id": "kusdt",
       "label": "USDT-TRC20 Kucoin",
       "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
-      "img": "./images/payments/btc.svg"
+      "img": "./images/payments/usdt.svg"
     },
     {
       "id": "kbusd",
