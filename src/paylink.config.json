@@ -42,17 +42,17 @@
       "value": "TFt9NBeujGyMKFLSVwVhSJDuPQS2WjcCTo",
       "img": "./images/payments/usdttrc20.svg"
     },
+     {
+      "id": "kusdc",
+      "label": "USDC-TRC20 Kucoin",
+      "value": "TFt9NBeujGyMKFLSVwVhSJDuPQS2WjcCTo",
+      "img": "./images/payments/usdctrc20.svg"
+    },
     {
       "id": "kbusd",
       "label": "BUSD-BEP20 Kucoin",
       "value": "0xb34baa66831e0d4cfede1bd4600cdc1168d3f4c7",
       "img": "./images/payments/busd.svg"
-    },
-    {
-      "id": "kusdc",
-      "label": "USDC-TRC20 KUCOIN",
-      "value": "TFt9NBeujGyMKFLSVwVhSJDuPQS2WjcCTo",
-      "img": "./images/payments/usdctrc20.svg"
     },
     {
       "id": "kusdterc",
@@ -62,7 +62,7 @@
     },
     {
       "id": "kusdcerc",
-      "label": "USDC-ERC20 KUCOIN",
+      "label": "USDC-ERC20 Kucoin",
       "value": "0x72eff26877cfe9524991ea604b15523d07a6c7ad",
       "img": "./images/payments/usdc.svg"
     },
@@ -74,7 +74,7 @@
     },
     {
       "id": "ltc",
-      "label": "LTC KUCOIN",
+      "label": "LTC Kucoin",
       "value": "M9iWsuWc11wjGMdwAmptoHZpsqavRdPNhs",
       "img": "./images/payments/ltc.svg"
     },
