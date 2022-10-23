@@ -40,7 +40,7 @@
       "id": "kusdt",
       "label": "USDT-TRC20 Kucoin",
       "value": "TFt9NBeujGyMKFLSVwVhSJDuPQS2WjcCTo",
-      "img": "./images/payments/usdt.svg"
+      "img": "./images/payments/usdttrc20.svg"
     },
     {
       "id": "kbusd",
@@ -49,10 +49,22 @@
       "img": "./images/payments/busd.svg"
     },
     {
-      "id": "doge",
-      "label": "DogeCoin",
-      "value": "",
-      "img": "./images/payments/doge.svg"
+      "id": "kusdc",
+      "label": "USDC-TRC20 KUCOIN",
+      "value": "TFt9NBeujGyMKFLSVwVhSJDuPQS2WjcCTo",
+      "img": "./images/payments/usdctrc20.svg"
+    },
+    {
+      "id": "kusdterc",
+      "label": "USDT-ERC20 Kucoin",
+      "value": "0x72eff26877cfe9524991ea604b15523d07a6c7ad",
+      "img": "./images/payments/usdt.svg"
+    },
+    {
+      "id": "kusdcerc",
+      "label": "USDC-ERC20 KUCOIN",
+      "value": "0x72eff26877cfe9524991ea604b15523d07a6c7ad",
+      "img": "./images/payments/usdc.svg"
     },
     {
       "id": "eth",
@@ -62,8 +74,8 @@
     },
     {
       "id": "ltc",
-      "label": "Litecoin",
-      "value": "",
+      "label": "LTC KUCOIN",
+      "value": "M9iWsuWc11wjGMdwAmptoHZpsqavRdPNhs",
       "img": "./images/payments/ltc.svg"
     },
     {
